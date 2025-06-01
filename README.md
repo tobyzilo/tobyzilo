@@ -28,39 +28,6 @@ Currently expanding expertise in C++, C#, and Java while exploring innovative ap
 
 ---
 
-## Education & Learning
-
-### Current Focus Areas
-- **C++ Programming:** Advanced concepts, memory management, and performance optimization
-- **C# Development:** .NET framework, Windows applications, and enterprise solutions
-- **Java Programming:** Enterprise applications, cross-platform development, and mobile applications
-
-### Continuous Learning
-- Active participation in open-source projects
-- Regular contribution to GitHub repositories
-- Engagement with developer communities and forums
-
----
-
-## Interests & Specializations
-
-### Gaming Technology
-- Minecraft server development and modification
-- Game mechanics and user experience design
-- Community-driven development and collaboration
-
-### Mobile Technology
-- Xiaomi ecosystem and MIUI customization
-- Android development and mobile optimization
-- Cross-platform mobile solutions
-
-### System Development
-- Windows application development
-- System-level programming and optimization
-- Desktop application architecture
-
----
-
 ## Professional Goals
 
 - Advance proficiency in C++, C#, and Java programming
