@@ -21,18 +21,11 @@ Currently expanding expertise in C++, C#, and Java while exploring innovative ap
 - **Operating Systems:** Windows development and optimization
 - **Development Tools:** Git, JetBrains, Visual Studio
 
-### Core Competencies
-- Object-Oriented Programming (OOP)
-- Software Architecture Design
-- Cross-platform Development
-
 ---
 
 ## Professional Goals
 
 - Advance proficiency in C++, C#, and Java programming
-- Contribute to innovative gaming and mobile technology projects
-- Develop expertise in cross-platform application development
 - Build meaningful connections within the developer community
 
 ---
